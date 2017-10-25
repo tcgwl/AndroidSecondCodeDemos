@@ -1,1 +1,1 @@
-include ':app', ':chpter12-materialdesigndemo'
+include ':app', ':chapter12-materialdesigndemo', ':chapter11-lbsdemo'
