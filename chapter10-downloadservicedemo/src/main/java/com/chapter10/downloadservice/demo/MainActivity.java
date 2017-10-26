@@ -59,8 +59,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (mDownloadBinder == null)
             return;
         if (v == startDownloadBtn) {
-            String url = "http://download1.douding.cn/android/DocinReaderX6_3.8.2_DocIn.apk";
-//            String url = "https://raw.githubusercontent.com/guolindev/eclipse/master/eclipse-inst-win64.exe";
+            String url = "https://raw.githubusercontent.com/guolindev/eclipse/master/eclipse-inst-win64.exe";
             mDownloadBinder.startDownload(url);
         } else if (v == pauseDownloadBtn) {
             mDownloadBinder.pauseDownload();

@@ -1,1 +1,1 @@
-include ':app', ':chapter12-materialdesigndemo', ':chapter11-lbsdemo', ':chapter14-mycoolweather', ':chapter10-downloadservicedemo'
+include ':app', ':chapter12-materialdesigndemo', ':chapter11-lbsdemo', ':chapter14-mycoolweather', ':chapter10-downloadservicedemo', ':chapter08-cameraalbumdemo'
