@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAndroidSecondCodeDemos.iml" filepath="$PROJECT_DIR$/MyAndroidSecondCodeDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04-fragmentbestpractice/chapter04-fragmentbestpractice.iml" filepath="$PROJECT_DIR$/chapter04-fragmentbestpractice/chapter04-fragmentbestpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05-forceofflinedemo/chapter05-forceofflinedemo.iml" filepath="$PROJECT_DIR$/chapter05-forceofflinedemo/chapter05-forceofflinedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter08-cameraalbumdemo/chapter08-cameraalbumdemo.iml" filepath="$PROJECT_DIR$/chapter08-cameraalbumdemo/chapter08-cameraalbumdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter10-downloadservicedemo/chapter10-downloadservicedemo.iml" filepath="$PROJECT_DIR$/chapter10-downloadservicedemo/chapter10-downloadservicedemo.iml" />
